@@ -26,3 +26,7 @@
 #wall #tag-7 {
   display: none;
 }
+
+#wall .parent {
+  display: none;
+}
