@@ -34,3 +34,7 @@
 #wall .slick {
   display: none;
 }
+
+#wall[class="slick wicked"] {
+  display: none;
+}
